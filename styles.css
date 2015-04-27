@@ -1,0 +1,17 @@
+/* style.css */
+
+/* selector {
+    property: value;
+} */
+
+input, select, textarea {
+  background-color : #FFFF00;
+}
+
+.lastname {
+    font-weight: bold;
+}
+
+p {
+    border-style: solid;
+}
